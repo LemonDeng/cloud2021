@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * @ClassName:OrderMain80
- * @Description: OrderMain80主启动类
+ * @Description: OrderMain80主启动类, Eureka服务注册中心
  * @Author: Deng Zhi Li
  * @Date: 2021/5/13 21:11
  */

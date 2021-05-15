@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
  * @ClassName:EurekaMain7002
- * @Description: TUDO
+ * @Description: Eureka服务注册中心
  * @Author: Deng Zhi Li
  * @Date: 2021/5/14 20:06
  */
