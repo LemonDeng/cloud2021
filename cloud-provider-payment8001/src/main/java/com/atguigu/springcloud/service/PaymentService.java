@@ -10,6 +10,7 @@ import org.apache.ibatis.annotations.Param;
  * @Date: 2021/5/13 15:27
  */
 public interface PaymentService {
+
     public int create(Payment payment);
 
     public Payment getPaymentById(@Param("id") Long id);
