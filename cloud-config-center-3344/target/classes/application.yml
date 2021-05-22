@@ -14,7 +14,7 @@ spring:
           search-paths:
             - springcloud-config
 
-      ####读取分支 ####读取分支 ####读取分支
+      ####读取分支
       label: master
 
 #服务注册到eureka地址
